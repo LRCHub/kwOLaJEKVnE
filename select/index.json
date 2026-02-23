@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "祈らず行脚",
+  "base_artist": "サツキ",
+  "createdAt": "2026-02-23T04:25:35.365349Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "祈らず行脚",
+      "artist": "サツキ",
+      "has_synced": false,
+      "path": "select/pl_01_祈らず行脚_サツキ.txt"
+    }
+  ]
+}
